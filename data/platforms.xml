@@ -1,0 +1,3708 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<platforms>
+	<platform id="1">
+		<browsername>Firefox</browsername>
+		<browserversion>dev</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform id="2">
+		<browsername>Firefox</browsername>
+		<browserversion>beta</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform id="3">
+		<browsername>Firefox</browsername>
+		<browserversion>61</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform id="4">
+		<browsername>Firefox</browsername>
+		<browserversion>60</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>59</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>58</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>57</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>56</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>55</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>54</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>53</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>52</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>51</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>50</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>49</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>48</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>47</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>46</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>45</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>44</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>43</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>42</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>41</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>40</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>39</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>38</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>37</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>36</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>35</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>34</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>33</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>32</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>31</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>30</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>29</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>28</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>27</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>26</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>20</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>19</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>18</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>17</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>16</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>15</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>14</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>13</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>12</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>11</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>10</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>9</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>8</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>7</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>6</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>5</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>4</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>dev</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>beta</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>61</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>60</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>59</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>58</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>57</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>56</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>55</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>54</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>53</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>52</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>51</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>50</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>49</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>48</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>47</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>46</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>45</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>44</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>43</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>42</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>41</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>40</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>39</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>38</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>37</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>36</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>35</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>34</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>33</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>32</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>31</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>30</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>29</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>28</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>27</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>26</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>MicrosoftEdge</browsername>
+		<browserversion>15</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>MicrosoftEdge</browsername>
+		<browserversion>14</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>MicrosoftEdge</browsername>
+		<browserversion>13</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Internet Explorer</browsername>
+		<browserversion>11</browserversion>
+		<os>Windows 10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>dev</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>beta</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>61</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>60</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>59</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>58</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>57</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>56</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>55</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>54</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>53</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>52</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>51</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>50</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>49</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>48</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>47</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>46</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>45</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>44</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>43</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>42</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>41</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>40</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>39</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>38</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>37</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>36</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>35</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>34</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>33</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>32</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>31</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>30</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>29</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>28</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>27</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>26</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>20</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>19</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>18</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>17</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>16</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>15</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>14</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>13</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>12</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>11</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>10</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>9</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>8</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>7</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>6</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>5</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>4</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>dev</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>beta</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>61</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>60</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>59</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>58</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>57</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>56</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>55</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>54</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>53</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>52</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>51</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>50</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>49</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>48</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>47</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>46</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>45</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>44</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>43</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>42</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>41</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>40</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>39</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>38</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>37</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>36</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>35</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>34</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>33</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>32</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>31</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>30</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>29</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>28</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>27</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>26</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Internet Explorer</browsername>
+		<browserversion>11</browserversion>
+		<os>Windows 8.1</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>dev</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>beta</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>61</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>60</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>59</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>58</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>57</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>56</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>55</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>54</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>53</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>52</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>51</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>50</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>49</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>48</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>47</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>46</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>45</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>44</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>43</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>42</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>41</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>40</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>39</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>38</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>37</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>36</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>35</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>34</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>33</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>32</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>31</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>30</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>29</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>28</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>27</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>26</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>20</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>19</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>18</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>17</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>16</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>15</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>14</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>13</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>12</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>11</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>10</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>9</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>8</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>7</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>6</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>5</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>4</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>dev</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>beta</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>61</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>60</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>59</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>58</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>57</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>56</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>55</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>54</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>53</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>52</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>51</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>50</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>49</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>48</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>47</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>46</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>45</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>44</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>43</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>42</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>41</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>40</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>39</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>38</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>37</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>36</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>35</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>34</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>33</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>32</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>31</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>30</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>29</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>28</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>27</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>26</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Internet Explorer</browsername>
+		<browserversion>10</browserversion>
+		<os>Windows 8</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>dev</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>beta</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>56</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>55</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>54</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>53</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>52</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>51</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>50</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>49</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>48</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>47</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>46</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>45</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>44</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>43</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>42</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>41</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>40</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>39</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>38</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>37</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>36</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>35</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>34</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>33</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>32</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>31</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>30</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>29</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>28</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>27</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>26</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>20</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>19</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>18</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>17</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>16</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>15</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>14</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>13</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>12</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>11</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>10</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>9</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>8</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>7</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>6</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>5</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>4</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>dev</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>beta</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>61</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>60</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>59</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>58</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>57</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>56</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>55</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>54</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>53</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>52</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>51</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>50</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>49</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>48</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>47</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>46</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>45</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>44</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>43</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>42</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>41</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>40</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>39</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>38</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>37</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>36</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>35</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>34</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>33</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>32</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>31</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>30</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>29</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>28</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>27</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>26</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Internet Explorer</browsername>
+		<browserversion>11</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Internet Explorer</browsername>
+		<browserversion>10</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Internet Explorer</browsername>
+		<browserversion>9</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Internet Explorer</browsername>
+		<browserversion>8</browserversion>
+		<os>Windows 7</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>dev</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>beta</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>56</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>55</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>54</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>53</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>52</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>51</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>50</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>49</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>48</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>47</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>46</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>45</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>44</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>43</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>42</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>41</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>40</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>39</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>38</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>37</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>36</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>35</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>34</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>33</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>32</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>31</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>30</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>29</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>28</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>27</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>26</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>20</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>19</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>18</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>17</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>16</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>15</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>14</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>13</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>12</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>11</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>10</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>9</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>8</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>7</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>6</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>5</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>4</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>dev</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>beta</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>61</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>60</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>59</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>58</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>57</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>56</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>55</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>54</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>53</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>52</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>51</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>50</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>49</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>48</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>47</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>46</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>45</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>44</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>43</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>42</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>41</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>40</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>39</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>38</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>37</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>36</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>35</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>34</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>33</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>32</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>31</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>28</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>27</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Safari</browsername>
+		<browserversion>11</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Safari</browsername>
+		<browserversion>10</browserversion>
+		<os>macOS 10.12</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>dev</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>beta</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>56</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>55</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>54</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>53</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>52</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>51</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>50</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>49</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>48</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>47</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>46</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>45</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>44</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>43</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>42</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>41</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>40</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>39</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>38</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>37</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>36</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>35</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>34</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>33</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>32</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>31</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>30</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>29</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>28</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>27</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>26</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>20</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>19</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>18</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>17</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>16</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>15</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>14</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>13</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>12</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>11</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>10</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>9</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>8</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>7</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>6</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>5</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>4</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>dev</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>beta</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>61</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>60</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>59</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>58</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>57</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>56</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>55</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>54</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>53</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>52</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>51</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>50</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>49</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>48</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>47</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>46</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>45</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>44</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>43</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>42</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>41</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>40</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>39</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>38</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>37</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>36</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>35</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>34</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>33</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>32</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>31</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>28</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>27</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Safari</browsername>
+		<browserversion>10</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Safari</browsername>
+		<browserversion>9</browserversion>
+		<os>OS X 10.11</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>dev</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>beta</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>47</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>46</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>45</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>44</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>43</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>42</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>41</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>40</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>39</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>38</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>37</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>36</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>35</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>34</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>33</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>32</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>dev</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>beta</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>61</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>60</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>59</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>58</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>57</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>56</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>55</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>54</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>53</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>52</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>51</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>50</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>49</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>48</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>47</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>46</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>45</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>44</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>43</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>42</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>41</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>40</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>39</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>38</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>37</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Safari</browsername>
+		<browserversion>8</browserversion>
+		<os>OS X 10.10</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>dev</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>beta</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>56</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>55</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>54</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>53</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>52</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>51</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>50</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>49</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>48</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>47</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>46</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>45</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>44</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>43</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>42</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>41</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>40</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>39</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>38</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>37</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>36</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>35</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>34</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>33</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>32</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>31</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>30</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>29</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>28</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>27</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>26</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>20</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>19</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>18</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>17</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>16</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>15</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>14</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>13</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>12</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>11</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>10</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>9</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>8</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>7</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>6</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>5</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>4</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>dev</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>beta</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>61</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>60</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>59</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>58</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>57</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>56</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>55</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>54</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>53</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>52</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>51</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>50</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>49</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>48</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>47</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>46</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>45</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>44</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>43</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>42</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>41</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>40</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>39</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>38</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>37</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>36</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>35</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>34</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>33</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>32</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>31</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Safari</browsername>
+		<browserversion>7</browserversion>
+		<os>OS X 10.9</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>45</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>44</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>43</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>42</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>41</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>40</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>39</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>38</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>37</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>36</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>35</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>34</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>33</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>32</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>31</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>30</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>29</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>28</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>27</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>26</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>20</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>19</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>18</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>17</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>16</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>15</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>14</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>13</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>12</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>11</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>10</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>9</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>8</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>7</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>6</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>5</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Firefox</browsername>
+		<browserversion>4</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>48</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>47</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>46</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>45</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>44</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>43</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>42</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>41</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>40</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>39</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>38</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>37</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>36</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>35</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>34</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>33</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>32</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>31</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>30</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>29</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>28</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>27</browserversion>
+		<os>Linux</os>
+	</platform>
+	<platform>
+		<browsername>Chrome</browsername>
+		<browserversion>26</browserversion>
+		<os>Linux</os>
+	</platform>
+</platforms>
