@@ -1,5 +1,7 @@
 package com.fairbit.test.saucelab.Tests;
 
+import com.fairbit.test.saucelab.Pages.Platform;
+import com.fairbit.test.saucelab.Pages.Platforms;
 import com.saucelabs.common.SauceOnDemandAuthentication;
 import com.saucelabs.common.SauceOnDemandSessionIdProvider;
 import com.saucelabs.testng.SauceOnDemandAuthenticationProvider;
@@ -13,11 +15,22 @@ import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Listeners;
+import com.fairbit.test.saucelab.Pages.ReadPlatformXML;
 
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.JAXBException;
+import javax.xml.bind.Unmarshaller;
+import java.io.File;
 import java.lang.reflect.Method;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.rmi.UnexpectedException;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
+import static com.fairbit.test.saucelab.Pages.ReadPlatformXML.getObjects;
+import static org.apache.commons.lang3.ArrayUtils.toArray;
 
 /**
  * Simple TestNG test which demonstrates being instantiated via a DataProvider in order to supply multiple browser combinations.
@@ -28,10 +41,14 @@ public class TestBase {
 
     public String buildTag = System.getenv("BUILD_TAG");
 
-    public String username = "mohamedturco";
+//    public String username = "mohamedturco";
+//    public String accesskey = "5d9945c0-bb9c-4762-a5c4-dee9ddf021e3";
 
-    public String accesskey = "5d9945c0-bb9c-4762-a5c4-dee9ddf021e3";
+//    public String username = "vhill93";
+//    public String accesskey = "d7e6b68a-78bf-4e7d-b9a2-b54834afbadd";
 
+    public String username = "shaikhsalman";
+    public String accesskey = "5b1948b8-4ec4-40ca-a53d-6a0cfb6f9788";
     /**
      * ThreadLocal variable which contains the  {@link WebDriver} instance which is used to perform browser interactions with.
      */
@@ -49,16 +66,37 @@ public class TestBase {
      * @return Two dimensional array of objects with browser, version, and platform information
      */
     @DataProvider(name = "hardCodedBrowsers", parallel = true)
-    public static Object[][] sauceBrowserDataProvider(Method testMethod){
-        return new Object[][]{
-                new Object[]{"MicrosoftEdge", "14.14393", "Windows 10"},
-                new Object[]{"firefox", "49.0", "Windows 10"},
-/*                new Object[]{"internet explorer", "11.0", "Windows 7"},
-                new Object[]{"safari", "10.0", "OS X 10.11"},
-                new Object[]{"chrome", "54.0", "OS X 10.10"},
-                new Object[]{"chrome", "60.0", "OS X 10.10"},
-                new Object[]{"firefox", "latest-1", "Windows 7"},*/
-        };
+    public static Iterator<Object[]> sauceBrowserDataProvider(Method testMethod) throws JAXBException {
+        File f = new File("./data/platforms.xml");
+        JAXBContext context = JAXBContext.newInstance(Platforms.class);
+        Unmarshaller unmarshaller = context.createUnmarshaller();
+        Platforms platforms = (Platforms) unmarshaller.unmarshal(f);
+        List<Platform> data = platforms.getPlatforms();
+        List<Object[]> objectdata = new ArrayList<Object[]>();
+
+
+        for (Platform platform : data){
+            objectdata.add(new Object[]{
+                platform.getBrowsername(), platform.getBrowserversion(), platform.getOs()
+            });
+
+//            System.out.println(platform);
+        }
+//        return new Object[][]{
+//                new Object[]{"MicrosoftEdge", "14.14393", "Windows 10"},
+//                new Object[]{"firefox", "49.0", "Windows 10"},
+//              new Object[]{"internet explorer", "11.0", "Windows 7"},
+//                new Object[]{"safari", "10.0", "OS X 10.11"},
+//                new Object[]{"chrome", "54.0", "OS X 10.10"},
+//                new Object[]{"chrome", "60.0", "OS X 10.10"},
+//                new Object[]{"firefox", "latest-1", "Windows 7"},
+//        };
+/*        for(Object[] datas: objectdata){
+            for(Object somedata: datas)
+            System.out.println(somedata.toString());
+        }
+*/
+            return objectdata.iterator();
     }
 
     /**
