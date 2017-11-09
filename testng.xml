@@ -1,0 +1,8 @@
+<suite name="All Test Suite" verbose="1">
+    <test name="C:/workspace/java-testng-selenium/src/test/java/com/fairbit/test/saucelab/Tests">
+        <classes>
+            <class name="com.fairbit.test.saucelab.Tests.PlatformSupportTest"></class>
+            <class name="com.fairbit.test.saucelab.Tests.TestGithubRegistration"></class>
+        </classes>\
+    </test>
+</suite>
