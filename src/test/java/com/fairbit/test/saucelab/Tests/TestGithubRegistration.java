@@ -37,6 +37,6 @@ public class TestGithubRegistration extends TestBase {
         page.login();
 
         this.annotate("Control test is Nightmode ...");
-        Assert.assertTrue(page.getLabelText().equals("Learn Git and GitHub without any code!"));
+        Assert.assertTrue(page.getLabelText().equals("Learn Git and GitHub without any code"));
     }
 }
