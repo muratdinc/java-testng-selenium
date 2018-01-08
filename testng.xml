@@ -2,6 +2,7 @@
     <test name="C:/workspace/java-testng-selenium/src/test/java/com/fairbit/test/saucelab/Tests">
         <classes>
             <class name="com.fairbit.test.saucelab.Tests.TestHandleCheckBoxes"></class>
+            <class name="com.fairbit.test.saucelab.Tests.TestGithubRegistration"></class>
         </classes>\
     </test>
 </suite>
