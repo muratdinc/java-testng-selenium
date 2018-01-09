@@ -10,7 +10,7 @@ import java.lang.reflect.Method;
 import java.net.MalformedURLException;
 import java.rmi.UnexpectedException;
 
-class TestRepricerLoginPageInvalidEmail extends TestBase {
+public class TestRepricerLoginPageInvalidEmail extends TestBase {
     @Test(dataProvider = "hardCodedBrowsers")
     public void verifyRepricerLoginPageInvalidEmail(String browser, String version, String os, Method method)
             throws MalformedURLException, InvalidElementStateException, UnexpectedException, InterruptedException {
